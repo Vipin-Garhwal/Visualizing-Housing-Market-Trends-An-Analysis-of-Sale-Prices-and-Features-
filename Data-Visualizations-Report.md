@@ -3,7 +3,7 @@
 **Project:** Visualizing Housing Market Trends: An Analysis of Sale Prices and Features  
 **Client:** ABC Company  
 **Tool:** Tableau  
-**Author:** Vipin-Garhwal  
+**Author:** Vipin  
 **Date:** 2026-03-05
 
 ## Overview
